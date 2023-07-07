@@ -1,0 +1,17 @@
+Esercizio 1
+
+Durante in corso della giornata mi ritrovo ad avere a che fare con diverse situazioni in cui si ha a che fare con i dati:
+
+1) Utilizzo di applicazioni per la messaggistica. I dati che vengono utilizzati  e comunicati sono prevalentemente di tipo testo, audio e immagini ma anche dati relativi alla posizione di persone e luoghi.
+In ambito lavorativo questi dati vengono raccolti allo scopo di individuare la posizione e per classificare gli impianti fotovoltaici che devono essere realizzati.
+Sono dati sensibili in quanto si raccolgono informazioni personali del singolo cliente. 
+Non è possibile evitare di comunicarli in quanto sono necessari alla progettazione e all'installazione degli impianti. È stato fornito il consenso al trattamento di questi dati.
+
+2) Utilizzo di applicazioni relative alla navigazione. In questo caso i dati che vengono utilizzati sono relativi alla posizione in tempo reale ma anche punto di partenza e di arrivo. Vengono rilevati dati sulla velocità del veicolo. 
+In questo caso lo scambio di dati mi è necessaria affinchè si possa arrivare a destinazione ed eventualmente di evitare i percorsi più trafficati. Al fornitore del servizio questi dati potrebbero risultare utili per la realizzazione di percorsi alternativi tenendo conto del traffico ma anche per la realizzazione di aree di servizio in specifici punti. 
+Sono dati sensibili ed al fine di utilizzare l'applicazione non è possibile evitare di comunicarli e di fornirne il consenso.
+
+3) Utilizzo piattaforme online per la registrazione degli impianti. In questo caso vengono comunicati dati sia in formato testo che immagini. Servono per la progettazione e la registrazione di impianti fotovoltaici.
+Sono dati sensibili in quanto riguardano informazioni personali relativi a persone fisiche ed aziende, come la fornitura elettrica, l’ubicazione dell’impianto coordinate bancarie e contatti telefonici. 
+Questi dati sono necessari alla realizzazione e registrazione dell'impianto. Al titolare della piattaforma potrebbero servire per quantificare la distribuzione e la taglia degli impianti presenti su un dato territorio e di intervenire per eventuali lavori di adeguamento della rete. Questi dati possono consentire di effettuare previsioni sulla produzione di energia da fonte rinnovabile in una determinata area geografica e quindi gestire ottimizzare la produzione di energia da fonti fossili. 
+Anche in questo caso sono dati sensibili necessari per il quale occorre fornire il consenso al trattamento dei dati
