@@ -1,0 +1,1 @@
+/* Si vuole mostrare la gestione dello stato di avanzamento di impianti fotovoltaici ad unso resiidenziale*/
