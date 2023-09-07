@@ -1,0 +1,2 @@
+stringa='Epicode'
+print(stringa)
