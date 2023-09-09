@@ -1,6 +1,8 @@
-efficenza=18                                    # [km/l]
-costo=1.87                                         # costo carburante [£/l]
-viaggio=100                                     # lunghezza itinerario [km]
-carburante=viaggio/efficenza                    # carburante necessario [l]
-costo_viaggio =carburante*costo
+livello_serbatoio=float(input('inserire livello serbatoio'))
+efficenza=float(input('inserire efficenza'))                                  # [km/l]
+costo=float(input('inserire costo carburante'))                                      # costo carburante [£/l]
+viaggio=float(input('inserire distanza viaggio '))                                     # lunghezza itinerario [km]
+carburante_viaggio=viaggio/efficenza                    # carburante necessario [l]
+costo_viaggio =carburante_viaggio*costo
+autonomia=livello_serbatoio-carburante_viaggio
 print('£',costo_viaggio)
