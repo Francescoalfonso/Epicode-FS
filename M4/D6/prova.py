@@ -9,7 +9,8 @@ minimo=min(lista)
 massimo=max(lista)
 lista_array=np.array(lista)
 matrice=lista_array.reshape(5,5)
+matrice=(matrice-minimo)/(massimo-minimo)
 print(matrice)
-for i in lista:
+'''for i in lista:
     operazione=(i-minimo)/(massimo-minimo)
-    print(operazione)
+    print(operazione)'''
